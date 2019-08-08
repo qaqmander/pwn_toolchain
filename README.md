@@ -54,3 +54,5 @@ keypatch
 
 ## not in pwndocker
 angr
+
+ipython3 (in angr virtualenv
