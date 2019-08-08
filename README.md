@@ -50,5 +50,7 @@ file
 
 libc-database
 
+keypatch
+
 ## not in pwndocker
 angr
