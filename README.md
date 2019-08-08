@@ -49,3 +49,6 @@ socat
 file
 
 libc-database
+
+## not in pwndocker
+angr
